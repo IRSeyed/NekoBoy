@@ -4,23 +4,23 @@
 
 This repo includes simple MicroPython games built for NekoBoy, a 3D-printed handheld game console powered by a Raspberry Pi Pico, a 1.3" SH1106 OLED display, and two push buttons.
 
-    💡 The 3D design for NekoBoy is available on Thingiverse:
-    👉 https://www.thingiverse.com/thing:7047175
+💡 The 3D design for NekoBoy is available on Thingiverse:
+👉 https://www.thingiverse.com/thing:7047175
 
 🐾 What is NekoBoy?
 
 NekoBoy is a compact and adorable DIY game console with a cat-inspired design. It’s ideal for learning MicroPython and building simple retro-style games with limited controls.
 🧰 Hardware Used
 
-    Raspberry Pi Pico
+Raspberry Pi Pico
 
-    1.3" SH1106 I2C OLED Display
+1.3" SH1106 I2C OLED Display
 
-    2x Push Buttons
+2x Push Buttons
 
-    Micro USB cable (for power & code upload)
+Micro USB cable (for power & code upload)
 
-    3D-printed NekoBoy case (Thingiverse link)
+3D-printed NekoBoy case (Thingiverse link)
 
 🔌 Wiring (Pinout)
 Component	Raspberry Pi Pico Pin
@@ -38,20 +38,20 @@ Tap the buttons to animate a bongo-playing cat! Just for fun and cuteness overlo
 
 A basic version of the Breakout/Arkanoid game. Move the paddle and keep the ball bouncing!
 
-    📁 This game comes with additional file(s). Be sure to copy all associated files to your Pico.
+📁 This game comes with additional file(s). Be sure to copy all associated files to your Pico.
 
 🦖 dino.py
 
 A simple version of the offline Dino game – jump over obstacles and survive as long as you can!
 
-    📁 May include extra files (like assets or score tracking). Check the folder contents.
+📁 May include extra files (like assets or score tracking). Check the folder contents.
 
 🚀 How to Run
 
-    Flash your Pico with the latest MicroPython firmware
+Flash your Pico with the latest MicroPython firmware
 
-    Wire the hardware according to the pinout
+Wire the hardware according to the pinout
 
-    Copy the .py game file (and any required files) to the Pico using Thonny
+Copy the .py game file (and any required files) to the Pico using Thonny
 
-    Connect your OLED and buttons, and power it on – you're ready to play!
+Connect your OLED and buttons, and power it on – you're ready to play!
