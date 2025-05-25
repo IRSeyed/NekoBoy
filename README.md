@@ -52,15 +52,11 @@ Just for fun and a cuteness overload 😸
 A basic version of the classic **Breakout / Arkanoid** game.  
 Move the paddle, bounce the ball, and break those bricks!
 
-📁 Be sure to copy any **additional files** included with this game.
-
 ---
 
 ### 🦖 `dino.py`
 A simple remake of the **Chrome Dino** game.  
 Jump over obstacles and survive as long as you can!
-
-📁 May include extra files (like assets or score tracking). Check the folder contents.
 
 ---
 
@@ -72,6 +68,3 @@ Jump over obstacles and survive as long as you can!
 4. Power on the console and enjoy playing!
 
 ---
-
-## 📁 File Structure Example
-
